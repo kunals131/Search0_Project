@@ -37,7 +37,45 @@ a {
     border-color: lightgrey;
     background: url(d.png) left  no-repeat;
     background-position: 9px;
-    background: ;
-
 }
+.SearchBar :hover {
+    border: 1px black;
+    sha
+}
+.button {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f5f5f5;
+    border:none;
+    color:#707079;
+    font-size:18px;
+    padding: 13px 13px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin:5px;
+    border-radius:4px;
+    outline: none;
+}
+.ButtonTogether {
+   margin-top: 30px;
+    text-align: center;
+}
+
+.ButtonTogether :hover{
+    border: 1px solid #c8c8c8;
+    padding: 9px 19px;
+    color:#808080;
+    box-shadow: 1px 1px;
+}
+.Languagetext {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 17px;
+}
+.Languagetext :hover {
+    text-decoration: underline;
+}
+.Languagetext a {
+    color: blue;
+}
+
 

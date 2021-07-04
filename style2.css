@@ -45,7 +45,7 @@ text-decoration: underline;
     margin-right: auto;
     width: auto;
     height: 40%;
-    margin-top: 5px;
+    margin-top: -10px;
     background: white;
     outline: none;
     padding-left: 40px;
@@ -90,10 +90,11 @@ text-decoration: underline;
 
 
 .a9nkvf {
+    display: block;
     color: #4285f4;
     font: 16px/16px roboto-regular, arial, sans-serif;
     position: relative;
-    left:10px;
+    left:755px;
     top: -49px;
     white-space: nowrap;
 }

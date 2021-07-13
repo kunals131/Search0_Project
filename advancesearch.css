@@ -1,0 +1,140 @@
+.wrapper {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+}
+.logo {
+    display: inline-block;
+    height: 24px;
+    width: 74px;
+    margin-top: 13px;
+    margin-left: 13px;
+}
+
+.headings {
+    color:#d93025;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 27px;
+    letter-spacing: normal;
+    margin-left: 40px;
+    font-size: 20.5px;
+}
+.h12{
+    margin-top: 8px;
+    color: gray;
+
+}
+
+.tablehead {
+    margin: 3%;
+    font-size: 13.5px;
+    margin-left: 40px;
+    width: 1900px;
+}
+.tophead {
+    font-size: 16.5px;
+    font-weight:450;
+    color: darkslategray;
+}
+.topheadv {
+    font-size: 14.5px;
+    font-weight:600;
+    color: gray
+}
+
+.midtable {
+    position: unset;
+    margin-left: 40px;
+    margin-top: -10px;
+
+}
+
+.head2{
+    margin-left:42px ;
+    margin-top: 35px;
+}
+
+.h45 {
+    display: inline-block;
+    font-size: 16px;
+
+
+}
+.h46 {
+    display: inline-block;
+    margin-left: 650px;
+    font-size: 14px;
+    font-weight: 600;
+    color: slategrey;
+
+}
+
+.Barsandtext {
+    margin-left: 40px;
+    margin-top: 17px;
+}
+
+
+.r1 {
+    font-size: 13.5px;
+    font-family: sans-serif;
+}
+
+.r2 {
+    font-size: 12px;
+    margin-left: 20px;
+    color: slategrey;
+    padding-bottom: 20px ;
+
+
+}
+
+.bar {
+    height: 30px;
+    margin-left: 50px;
+    width: 585px;
+    border-color: #D3D3D3;
+    border-width:0.00002em
+}
+
+
+.rx {
+    margin-top: 20px;
+}
+
+.h13{
+    margin-top: 30px;
+    color: gray;
+
+}
+
+.maintable {
+    border-collapse: unset;
+}
+td {
+    padding-bottom: 0.9em;
+}
+
+.button {
+    background-color: #4d90fe;
+    background-image: -webkit-linear-gradient(top,#4d90fe,#4787ed);
+    color: #fff;
+    font-family: sans-serif;
+    border: 1px;
+    border-color: #3079ed;
+    width: 120px;
+    font-weight:500;
+    margin-left: 655px;
+    height: 34px;
+    font-size: 14px;
+    display: block;
+    margin-top: 20px;
+}
+
+.button:hover{
+    box-shadow: 2px 2px grey;
+    border-width: 0em;
+}

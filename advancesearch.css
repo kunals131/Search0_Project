@@ -21,7 +21,26 @@
     letter-spacing: normal;
     margin-left: 40px;
     font-size: 20.5px;
+    display: inline-block;
 }
+
+.hx {
+    text-align: right;
+    margin-top: 8px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 24px;
+    vertical-align: middle;
+    margin-left: 1200px;
+}
+.hx :hover {
+    text-decoration: underline; 
+}
+.hx a {
+    color: black;
+    text-decoration: none;
+}
+
 .h12{
     margin-top: 8px;
     color: gray;
